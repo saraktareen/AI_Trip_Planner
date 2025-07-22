@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+env
+
+
+# Ignore system & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+.env
+__pycache__/
+*.log
+*.pyc
+*.pyo
+*.swp
+
+# Ignore compiled and cache files
+dist/
+build/
+*.class
+*.exe
+*.dll
+*.out
+*.so
